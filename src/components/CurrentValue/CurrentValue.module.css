@@ -1,0 +1,16 @@
+.currentValue {
+  border: 2px #CBA5EA solid;
+  border-radius: 10px;
+  color: white;
+  margin: 20px 0px;
+  height: 100px;
+  font-size: 28px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  box-sizing: border-box;
+}
+
+.maxValue {
+  color: red;
+}

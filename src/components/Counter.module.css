@@ -1,0 +1,20 @@
+.counter {
+  border: 3px #CBA5EA solid;
+  border-radius: 10px;
+  padding: 25px;
+  width: 380px;
+  height: 320px;
+  margin: 30px;
+  box-sizing: border-box;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.buttons {
+  display: flex;
+  justify-content: space-between;
+  border: 2px #CBA5EA solid;
+  padding: 20px;
+  border-radius: 10px;
+}
